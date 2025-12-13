@@ -7,7 +7,7 @@
     "icon": "https://discord-botlist.eu/pics/logo.jpg",
     "language": "English",
     "display": 1,
-    "defunct": 0,
+    "defunct": 1,
     "discord_only": 1,
     "description": "discord-botlist.eu offers a wide variety of bots for your personal needs. Find your bot today!",
     "api_docs": "https://docs.discord-botlist.eu",
